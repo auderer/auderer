@@ -1,4 +1,4 @@
-### `💪 My Skills & Interests:`
+### `💪 Skills & Interests:`
 
 [`JavaScript`](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 &nbsp;
@@ -39,7 +39,7 @@
 
 ---
 
-### `📖 Articles I Wrote:`
+### `📖 Latest Articles:`
 [`How to Use Computer Vision to Automatically Filter Images`](https://dev.to/heroku/how-to-use-computer-vision-to-automatically-filter-images-3g7k)
 
 [`Basic Express Server in Node.js`](https://alligator.io/nodejs/express-basics/)
