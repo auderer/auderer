@@ -29,14 +29,6 @@
 &nbsp;
 [`GitHub Actions`](https://github.com/features/actions)
 
-[`Linux`](https://github.com/torvalds/linux)
-&nbsp;
-[`Bash`](https://www.gnu.org/software/bash/)
-&nbsp;
-[`Git`](https://git-scm.com/)
-&nbsp; 
-[`Vim`](https://www.vim.org/)
-
 ---
 
 ### `📖 Latest Articles:`
